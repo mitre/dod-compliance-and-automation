@@ -6,4 +6,4 @@ description: >
   Testing
 ---
 
-<iframe src="/reports/test.html" title="description" style="height:100%;width:100%;border:none"></iframe>
+<iframe src="heimdall-lite.mitre.org" title="description" style="height:100%;width:100%;border:none"></iframe>
